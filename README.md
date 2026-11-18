@@ -12,7 +12,7 @@ Application mobile développée avec Expo et TypeScript dans le cadre du module 
 ## Captures d'écran
 
 ### Mode `'tous'` (6 événements)
-![Mode Tous](./screenshots/mode-tous.png)
+![Mode Tous](./screenshots/mode-tous.png.jpeg)
 
 ### Mode `'ateliers'` (2 ateliers disponibles)
-![Mode Ateliers](./screenshots/mode-ateliers.png)
+![Mode Ateliers](./screenshots/mode-ateliers.png.jpeg)
